@@ -1,0 +1,80 @@
+# TrendKart Sales Dashboard
+
+## 📊 Overview
+
+The **TrendKart Sales Dashboard** is an interactive **Microsoft Excel** dashboard designed to analyze and visualize sales performance.
+
+It provides a clear overview of sales trends, product performance, revenue, transactions, and other key business insights using Excel-based reports and visualizations.
+
+## 🛠️ Technology Used
+
+* **Microsoft Excel**
+
+## ✨ Key Features
+
+* Sales performance overview
+* Total sales and revenue analysis
+* Sales trend analysis
+* Product-wise sales performance
+* Category-wise sales analysis
+* Transaction analysis
+* Interactive filters and slicers
+* KPI cards and visual reports
+* Charts and graphs for better data understanding
+
+## 📈 Dashboard Insights
+
+The dashboard helps users understand:
+
+* Total sales and revenue
+* Number of sales transactions
+* Sales trends over time
+* Best-performing products
+* Top-performing categories
+* Changes in sales performance
+* Overall business performance
+
+## 🔄 Data Analysis
+
+The dashboard uses Microsoft Excel features such as:
+
+* Pivot Tables
+* Pivot Charts
+* Excel Tables
+* Slicers
+* Filters
+* Formulas and functions
+* Conditional Formatting
+* Interactive charts
+
+## 🚀 How to Use
+
+1. Open the **TrendKart Sales** Excel workbook.
+2. Navigate to the **Dashboard** sheet.
+3. Use the available filters and slicers.
+4. Select the required date, product, category, or other available dimensions.
+5. Review the KPIs, charts, and sales trends.
+6. Use the data and analysis sheets for detailed information.
+
+## 📁 Workbook Structure
+
+```text
+TrendKart Sales Dashboard
+│
+├── Dashboard
+├── Sales Data
+├── Pivot Tables
+└── Analysis
+```
+
+> Update the sheet names above if your actual Excel workbook uses different names.
+
+## 🎯 Objective
+
+The objective of the **TrendKart Sales Dashboard** is to transform sales data into meaningful visual insights using **Microsoft Excel**, making it easier to monitor sales trends, identify high-performing products, and support data-driven business decisions.
+
+## 📄 File Format
+
+**Excel Workbook:** `.xlsx`
+
+**[hariprasad]**
