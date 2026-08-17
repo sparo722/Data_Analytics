@@ -1,0 +1,79 @@
+# Sales Transaction – Retail Dashboard
+
+## 📊 Overview
+
+The **Sales Transaction – Retail Dashboard** is an interactive **Microsoft Excel** dashboard designed to analyze and visualize retail sales transaction data.
+
+It helps users understand sales performance, transaction trends, product performance, and overall retail business insights using Excel-based charts, tables, and reports.
+
+## 🛠️ Technology Used
+
+* **Microsoft Excel**
+
+## ✨ Key Features
+
+* Sales performance overview
+* Total sales and transaction analysis
+* Product-wise sales analysis
+* Sales trend visualization
+* Category-wise performance
+* Interactive Excel charts and visuals
+* Data filtering and analysis
+* KPI-based reporting
+* Easy-to-understand dashboard layout
+
+## 📈 Dashboard Insights
+
+The dashboard can help answer questions such as:
+
+* What are the total sales?
+* How many transactions were completed?
+* Which products performed best?
+* Which categories generated the most sales?
+* How are sales changing over time?
+* Which areas of the business need improvement?
+
+## 🔄 Data Analysis
+
+The dashboard uses **Microsoft Excel** features to organize, analyze, and visualize retail transaction data.
+
+Typical Excel features used may include:
+
+* Excel Tables
+* Pivot Tables
+* Pivot Charts
+* Excel Charts
+* Filters and Slicers
+* Formulas and functions
+* Conditional Formatting
+
+## 🚀 How to Use
+
+1. Open the Excel workbook.
+2. Navigate to the **Dashboard** sheet.
+3. Use the available filters or slicers to select the required data.
+4. Review the KPIs, charts, and sales insights.
+5. Use the transaction or data sheets for detailed analysis.
+
+## 📁 Workbook Structure
+
+```text
+Sales Transaction – Retail Dashboard
+│
+├── Dashboard
+├── Sales Data
+├── Pivot Tables
+└── Analysis
+```
+
+> The sheet names can be updated according to the actual Excel workbook.
+
+## 🎯 Objective
+
+The objective of this dashboard is to convert retail sales transaction data into clear and useful visual insights using **Microsoft Excel**, enabling users to monitor sales performance and support data-driven decision-making.
+
+## 📄 File Format
+
+**Excel Workbook:** `.xlsx`
+
+**[Hariprasad]**
